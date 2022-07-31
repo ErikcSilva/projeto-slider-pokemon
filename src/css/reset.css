@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* para não dar problema de borden e padding ficar somando os 2*/
+}
+ul{
+    list-style: none; /* apaga as bolinhas da lista */
+}
